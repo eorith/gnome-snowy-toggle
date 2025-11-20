@@ -1,4 +1,4 @@
-# gnome-snowy-toggle
+# ❄ gnome-snowy-toggle ❄
 Simple One-click toggle for ExposedCat's snowy extension
 
 <img width="269" height="33" alt="image" src="https://github.com/user-attachments/assets/2222ce40-6b79-42cd-8f2a-9cf903601731" />
