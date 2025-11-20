@@ -1,6 +1,6 @@
 {
   "name": "Snowy Toggle",
-  "description": "One-click toggle for Snowy snow extension",
+  "description": "Simple One-click toggle for ExposedCat's snowy extension",
   "uuid": "snowy-toggle@eorith",
   "shell-version": ["47", "48", "49"],
   "version": 1,
