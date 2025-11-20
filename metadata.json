@@ -1,0 +1,9 @@
+{
+  "name": "Snowy Toggle",
+  "description": "One-click toggle for Snowy snow extension",
+  "uuid": "snowy-toggle@eorith",
+  "shell-version": ["47", "48", "49"],
+  "version": 1,
+  "url": "https://github.com/eorith/gnome-snowy-toggle",
+  "settings-schema": "org.gnome.shell.extensions.snowy-toggle"
+}
